@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 ## 🚀 About This Repository
 
 <p>
@@ -14,6 +13,11 @@ The goal is to improve problem-solving skills, strengthen core concepts, and pre
 </p>
 
 ---
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ## 🎯 Objectives
 
@@ -23,16 +27,8 @@ The goal is to improve problem-solving skills, strengthen core concepts, and pre
   <li>Prepare for software developer interviews</li>
   <li>Maintain consistency with daily practice</li>
 </ul>
-
 ---
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
 
-│── Day-02/
-│   ├── problem1.py
-│── ...
+
